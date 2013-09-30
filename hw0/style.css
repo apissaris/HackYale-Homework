@@ -1,0 +1,146 @@
+.grey {
+	color: #202020;
+	font-size: 40px;
+	font-family: arial, sans-serif;
+	font-weight: 700;
+}
+
+h1 {
+	position: relative;
+	left: 30px;
+	top: 8px;
+}
+
+p {
+	color: #202020;
+	font-family: helvetica;
+	width: 1300px;
+	border-top: inset;
+	border-color: maroon;
+	border-width: 3px;
+	border-style: double-solid;
+	margin-top: -11px;
+	padding-top: 9px;
+	
+
+}
+
+.info {
+	color: #202020;
+	font-family: sans-serif;
+	left: 0px;	
+}
+
+body {
+	background: url(http://farm6.staticflickr.com/5185/5850106427_10d4cf59ef_o.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 1000px;
+}
+
+
+a:link {
+    color: maroon;
+}
+
+a:visited {
+	color: maroon;
+}
+
+.melink {
+	position: absolute;
+	top: 70px;
+	right: 150px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.linkslink {
+	position: absolute;
+	top: 70px;
+	right: 100px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.twitter
+{
+	position: relative;
+	left: 40px;
+	top: 20px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.github
+{
+	position: relative;
+	left: 110px;
+	top: -8px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.rap
+{
+	position: relative;
+	left: 185px;
+	top: -34px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.espn
+{
+	position: relative;
+	left: 50px;
+	top: -34px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.cnn
+{
+	position: relative;
+	left: 133px;
+	top: -61px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.cookie
+{
+	position: relative;
+	left: 185px;
+	top: -88px;
+	font-size: 20px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+
+.LinkHeader {
+	position: relative;
+	left: 10px;
+	top: 18px;
+	color: #202020;
+	font-size: 25px;
+	font-family: arial, sans-serif;
+	font-weight: 700;
+}
+
+h2 {
+	position: relative;
+	top: 40px;
+}
+
+.p2 {
+	position: relative;
+	top: 30px;
+	border: none;
+	padding-top: 1px;
+}
+
+.shiftright{
+	position: absolute;
+	right: 60px;
+	
+}

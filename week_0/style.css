@@ -1,0 +1,29 @@
+body {
+	background-color: grey;
+}
+
+h1 {
+	color: pink;
+	background-color: red;
+	font-style: italic;
+
+}
+
+.blue {
+	color: blue;
+	border: 1pt solid navajowhite;
+}
+
+.red {
+	color: green;
+	font-size: 20px;
+}
+
+h1 {
+	color: pink;
+}
+
+/* use .class notation to create classes so that in the HTML text you can access the class attributes without needing to style each tag
+/* styles for a tag later in the page take precedence over those early in the page
+/* BUT, class style takes precedence over tag styles
+
