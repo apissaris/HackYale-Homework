@@ -1,0 +1,201 @@
+body  {
+	font-family: helvetica, sans-serif;
+	position: absolute;
+	width: 1040px;
+}
+
+.divheader {
+	border-bottom: solid;
+	padding: 8px;
+	padding-bottom: 2px;
+	margin: none;
+	background-color: #3366FF;
+	margin: ;
+	height: 80px;
+	right: 40px;
+}
+
+.myname {
+	color: black;
+	font-size: 30px;
+	position: absolute;
+	left: 40px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+
+.link {
+	position: relative;
+	color: black;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.morelink {
+	position: absolute;
+	right: 40px;
+	top: 40px;
+	color: white;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.homelink {
+	position: absolute;
+	top: 40px;
+	right: 185px;
+	color: white;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.melink {
+	position: absolute;
+	top: 40px;
+	right: 140px;
+	color: white;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+.avatarheader {
+	font-size: 80px;
+	font-weight: 500;
+	position: relative;
+	top: -5px;
+	text-align: center;
+
+}
+
+.divheader2 {
+	padding-top: 1px;
+	background-color: #E8E8E8;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+
+.maincharacter {
+	font-size: 25px;
+	color: #3366FF;
+	font-style: italic;
+	font-weight: 800;
+	position: absolute;
+	display: inline;
+}
+
+.pic {
+	height: 220px;
+	width: 296px;
+	border: solid;
+	position: relative;
+	top: 100px;
+}
+
+.box {
+	width: 296px;
+	height: 1000px;
+	position: static;
+	left: 40px;
+	margin-top: -50px;
+	padding: 0px;
+	display: inline-block;
+}
+
+.characterblurb {
+	position: relative;
+	top: 100px;
+
+}
+
+.characterlink {
+	top: 100px;
+}
+
+.katarabox {
+	position: absolute;
+	left: 40px;
+}
+
+.aangbox {
+	position: absolute;
+	left: 372px;
+}
+
+.sokkabox {
+	position: relative;
+	left: 704px;
+}
+
+.doublebox {
+	left: 40px;
+	width: 628px;
+	height: 700px;
+	position: absolute;
+	top: 640px;
+}
+
+.zuko {
+	position: relative;
+	font-size: 20px;
+	color: red;
+}
+
+.zukocaption {
+	position: relative;
+	top: 500px;
+	font-size: 30px;
+	color: red;
+}
+
+.zukoblurb {
+	position: relative;
+	top: 50px;
+}
+
+.zukopic {
+	height: 360px;
+	width: 628px;
+	border: solid;
+	position: relative;
+}
+
+.moreheadings {
+	color: black;
+	position: relative;
+	top: 150px;
+}
+
+.sidestory {
+	position: relative;
+	top: 160px;
+}
+
+.sideblurb {
+	width: 200px;
+	position: relative;
+	left: 95px;
+	top: -110px;
+}
+
+.sidepicture {
+	position: relative;
+	border: solid;
+	width: 80px;
+	height: 80px;
+}
+
+.appastory {
+	top: 50px;
+}
+
+.momostory {
+	top: -50px;
+}
+
+.toph {
+	color: green;
+}
+
+.appa {
+	color: gold;
+}
+
+.momo {
+	color: grey;
+}
